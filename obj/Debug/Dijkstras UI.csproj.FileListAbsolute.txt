@@ -1,0 +1,30 @@
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\bin\Debug\Dijkstras UI.exe.config
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\bin\Debug\Dijkstras UI.exe
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\bin\Debug\Dijkstras UI.pdb
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.csprojResolveAssemblyReference.cache
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\MainWindow.baml
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\MainWindow.g.cs
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\App.g.cs
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI_MarkupCompile.cache
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.g.resources
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras_UI.Properties.Resources.resources
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.csproj.GenerateResource.Cache
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.exe
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.pdb
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\one.baml
+c:\users\shaikh\documents\visual studio 2013\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\one.g.cs
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\bin\Debug\Dijkstras UI.exe.config
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.exe
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.pdb
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\bin\Debug\Dijkstras UI.exe
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\bin\Debug\Dijkstras UI.pdb
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.csprojResolveAssemblyReference.cache
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\MainWindow.baml
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\one.baml
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\MainWindow.g.cs
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\one.g.cs
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\App.g.cs
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI_MarkupCompile.cache
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.g.resources
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras_UI.Properties.Resources.resources
+D:\BS-CS\6th semester\design analysis and algorithms\Projects\Dijkstras UI\Dijkstras UI\obj\Debug\Dijkstras UI.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+﻿<Window x:Class="Dijkstras_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Single Sortest Path" Height="615" Width="1022" Icon="icon.ico">
+    <Grid>
+        <Frame x:Name="frame" Content="" NavigationUIVisibility="Hidden" Background="#FF339381"/>
+
+    </Grid>
+</Window>
